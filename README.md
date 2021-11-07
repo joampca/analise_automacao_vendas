@@ -1,2 +1,2 @@
 # analise_automacao_vendas
- Análise de vendas em diferentes lojas e automação no envio de relatórios
+ -- PROJETO DE ESTUDO --  Análise de vendas em diferentes lojas e automação no envio de relatórios
